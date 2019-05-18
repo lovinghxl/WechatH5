@@ -1,0 +1,9 @@
+
+.text-left{text-align: left!important;}
+.text-center{text-align: center!important;}
+.text-right{text-align: right!important;}
+.tips{text-align: center;color: #999;}
+.tips i{font-size: 150px;}
+.tips .tips-text{font-size: 20px;}
+.tips .tips-text div{margin-top: 8px;}
+.tips .tips-text a{padding: 5px;border-radius: 6px;line-height: 20px;font-size: 14px;background: #f44;color: #fff;}
